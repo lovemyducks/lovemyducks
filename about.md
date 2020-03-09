@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-We're Reece & Harmony Morgan. Hope is our daughter.
+We're Reece & Harmony Morgan. 
