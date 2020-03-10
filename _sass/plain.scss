@@ -15,7 +15,8 @@ $leftWidth: 220px;
 }
 
 body {
-	background: #EEE3CC;
+	background-image: url("/assets/ducks.png");
+  background-attachment: fixed;
   font-family: "Arial", sans-serif;
   font-size: 16px;
   line-height: 1.2em;
