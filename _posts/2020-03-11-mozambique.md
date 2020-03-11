@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First Mission Trip"
+title:  "Our First Time Leaving the US"
 date:   2020-03-08 14:28:38 -0600
 tags: africa
 ---
