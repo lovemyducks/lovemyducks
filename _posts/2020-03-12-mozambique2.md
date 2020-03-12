@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our First Time Leaving the US"
+title:  "Follow Love"
 date:   2020-03-12 15:28:38 -0600
 tags: africa
 ---
