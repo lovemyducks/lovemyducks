@@ -5,10 +5,10 @@ date:   2020-03-11 14:28:38 -0600
 tags: africa
 ---
 
-On our way to Africa, and on a plane for both Hope and mine first time. She has a fun time making so many friends with any body. She is sleeping all warn out by the long busy day.
+On our way to Africa, and on a plane for both Hope and mine first time. She has a fun time making so many friends with anybody. She is sleeping, all worn out by the long busy day.
 Now is my time to reflect on our expectations and the reason we're traveling half way across the world to stay in a strange and new place. It's easy to blame my family, because they all go on mission trips it seems. But it's not a requirement for me to go; just because I'm from the Downs family doesn't force me to leave the country. It's true my parents have trained us to be missionaries and they did a great job in that. There is just so much more to it than that.
 
-Going on a mission trip has been something I've wanted to do since I was 12, but God has had me wait because my heart was selfish at the time. My whole reasoning of going was to prove to others and myself that I was a good Christian. I had heard many times of my sisters Melody's story, and she is remembered as a great follower of God; she gave up everything, even her own life to follow Jesus. I was trying to compare to her greatness, not realizing I was only focused on myself and how great I was. God took time to teach me and show me my error. He wanted me to rely on His Love to be my identity, and than I could Love others right.
+Going on a mission trip has been something I've wanted to do since I was 12, but God has had me wait because my heart was selfish at the time. My whole reasoning of going was to prove to others and myself that I was a good Christian. I had heard many times of my sisters Melody's story, and she is remembered as a great follower of God; she gave up everything, even her own life to follow Jesus. I was trying to compare to her greatness, not realizing I was only focused on myself and how great I was. God took time to teach me and show me my error. He wanted me to rely on His Love to be my identity, and that I could Love others right.
 
 We're going to Africa to follow in Jesus' calling to go into all the world and preach the good news of what Jesus has done. We understand not everyone has to go across seas, but somebody does. There are so many lost souls and God calls out to us "whom shall I send? And who will go for us" (Isaiah 6:8). As a child I continuously prayed, "here I am, send me!" It's exciting that now I and my husband and baby get to go to Africa, as a response to His call. He has made this whole trip possible, and our friends and family have been a great help and support as well.
 
@@ -18,12 +18,12 @@ So I repeat the question, why are we going to Africa? Well there are many reason
 
 - My family is persuasive.
 
-- It's been my child hood dream and God promised me that I'd go someday.
+- It's been my childhood dream and God promised me that I'd go someday.
 
 - We were available.
 
 - We believe in the great commission -
-Jesus before He returned to Heaven told His disciples to make disciples of all nations (Matthew 28:19). And He commanded us to Go into all the world and preach the good news to All creation (mark 16:15)
+Jesus before He returned to Heaven told His disciples to make disciples of all nations *(Matthew 28:19)*. And He commanded us to Go into all the world and preach the good news to All creation *(Mark 16:15)*
 
 - We run towards what the devil tries to get us to fear.
 
