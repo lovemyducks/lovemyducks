@@ -21,11 +21,12 @@ layout: default
           <h2 class="post-title">{{ post.title | escape }}</h2>
         </a>
         <div class="post-meta">
-          <ul class="post-categories">
+          <!-- <ul class="post-categories">
             {%- for tag in post.categories -%}
               <li>{{ tag }}</li>
             {%- endfor -%}
           </ul>
+          -->
           <div class="post-date">
             <i class="icon-calendar"></i>
             {{ post.date | date: date_format }}</div>
