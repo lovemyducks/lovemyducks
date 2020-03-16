@@ -42,6 +42,8 @@ plainwhite:
     #   instance: example.com
 
   navigation:
+    - title: Home 
+      url: "/"
     - title: About Us
       url: "/about"
 
