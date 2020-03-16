@@ -17,7 +17,7 @@ What can I say that matters? God is good and things have worked out perfectly so
 
 I know I've been writing a lot recently, but don't get to used to it. I won't be able to write so often once things get busy and I'll probably be shorter on things to say. We'll see what happens, just know that there's nothing wrong if I don't write every day.
 
-We still Love you, buy it's super cool to be here. We're in expectation of God leading our family in meaningful ways.
+We still Love you, but it's super cool to be here. We're in expectation of God leading our family in meaningful ways.
 
 > Love
 
