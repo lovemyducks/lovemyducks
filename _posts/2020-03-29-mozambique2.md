@@ -21,4 +21,4 @@ Friday was fairly ordinary day compared to that one. But can you really call a d
 
 The children in the village absolutely loved my daughter, Hope, and kept asking what her name was. She even let some of them hold her without fussing too much. That’s Richard in the background playing coconut bowling with some children.
 
-![Coconut Bowling](/assets/coconut.jpg){}
+![Coconut Bowling](/assets/coconut.jpg)
