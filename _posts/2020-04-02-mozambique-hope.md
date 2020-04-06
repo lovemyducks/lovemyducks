@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "All About Hope"
-date:   2020-04-02 11:28:38 -0600
+title: All About Hope
+date: 2020-04-02T05:00:00.000Z
 tags: africa
 ---
 
