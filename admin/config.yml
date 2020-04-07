@@ -18,14 +18,16 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: '/'
-    label: 'extra stuff'
-    folder: '/'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+
+  - name: 'pages'
+    label: 'Pages'
     editor:
       preview: false
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+    files:
+      - label: 'About Page'
+        name: 'about'
+        file: 'about.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
