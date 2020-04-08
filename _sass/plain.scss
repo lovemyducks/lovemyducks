@@ -80,7 +80,7 @@ main {
 		border-right: 5px dotted #ddddcc;
 		border-left: 5px solid #ddddcc;
     display: flex;
-		height: auto;
+		height: 100vh;
     padding-top: 1vh;
     padding-bottom: 15vh;
     @media screen and (max-width: $mobileW) {

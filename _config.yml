@@ -1,5 +1,5 @@
 title: Love My Ducks
-author: Tommy
+author: Reece & Harmony
 email: ramorgan2@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   I love my ducks; but I love Jesus more.
@@ -41,16 +41,10 @@ plainwhite:
     # - username: jekyll2
     #   instance: example.com
 
-  navigation:
-    - title: Home 
-      url: "/"
-    - title: About Us
-      url: "/about"
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
+#header_pages:
+# - about.md
 
 # Build settings
 #theme: plainwhite

@@ -35,10 +35,10 @@
           {%- endif -%}
         </ul>
 
-        {%- if site.plainwhite.navigation -%}
+        {%- if site.data.navigation -%}
           <nav class="navigation">
             <ul>
-              {% for link in site.plainwhite.navigation %}
+              {% for link in site.data.navigation.items %}
                 <li>
                   <a href="{{ link.url }}">{{ link.title }}</a>
                 </li>
