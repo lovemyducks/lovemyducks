@@ -19,7 +19,8 @@ Through it all, God remained good. He is our healer and provider. As I was conti
 
 So any way, I Love you all still, but you know that. I just want to remind you all again, just like how God constantly reminds me of His Love.
 
-> Love\
+> Love
+
 > Harmony*
 
 ## Song recommendation
