@@ -3,6 +3,8 @@ layout: post
 title: Being Stuck In Our Room
 date: 2020-04-11T18:56:12.928Z
 ---
+![Reece & Hope](/assets/hammy.jpg)
+
 Reece had a fever one night, and the next day they took him to the hospital to test for malaria. He was just fine, but we had to make it 24 hours without any of us having a fever before we'd be freed from our room.
 
 Days past with us quarantined to our room. When Reece was all better, we were very close to having no fevers, and we would have gotten to go free the next morning, had I not gotten a fever that night. Another 24 hours, and again the next night I had a fever. I had an earache, that was why I was getting a bit of a fever, nothing really big was wrong with me.
@@ -20,8 +22,9 @@ Through it all, God remained good. He is our healer and provider. As I was conti
 So any way, I Love you all still, but you know that. I just want to remind you all again, just like how God constantly reminds me of His Love.
 
 > Love
-
+>
 > Harmony*
 
 ## Song recommendation
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gn3gxow1ZGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
