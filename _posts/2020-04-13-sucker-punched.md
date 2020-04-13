@@ -3,8 +3,7 @@ layout: post
 title: Sucker Punched
 date: 2020-04-13T19:04:03.111Z
 ---
-\
-Our room here in Mozambique is positioned perfectly. When I walk out my door before I go to bed at night, I take a couple steps and I can see the moon shining upon the Indian ocean. We often have clear nights here, so its just the bright light of the moon as it rises into the inky black sky. There are few, if any stars between the moon and the very defined horizon line. The inky black meets the sea. The sea is alive under the light of the moon. On windy nights it is a shimmering cascade of ever-changing reflections. On still nights it is a calm, peaceful,constant reflection of the moon’s light. I believe it is the most beautiful thing I have ever seen with my own eyes.
+Our room here in Mozambique is positioned perfectly. When I walk out my door before I go to bed at night, I take a couple steps and I can see the moon shining upon the Indian ocean. We often have clear nights here, so its just the bright light of the moon as it rises into the inky black sky. There are few, if any stars between the moon and the very defined horizon line. The inky black meets the sea. The sea is alive under the light of the moon. On windy nights it is a shimmering cascade of ever-changing reflections. On still nights it is a calm, peaceful, constant reflection of the moon’s light. I believe it is the most beautiful thing I have ever seen with my own eyes.
 
 The very moment I realized this truth, I was struck by another, greater truth. I was witnessing the most beautiful sight the Lord had ever put before my eyes yet I knew, without a doubt, that there was something more beautiful. I knew it even more than I know that the ground I walk upon will hold my weight. I knew it even more surely than I know my own name. It is a truth more present and assured than my very heartbeat.
 
