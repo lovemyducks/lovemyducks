@@ -3,7 +3,7 @@
   <head>
     {%- include head.html -%}
   </head>
-  <body>
+<body onload=' location.href="#content" '>
     <main class="container">
       <section class="about">
         <a href="/"><img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}"></a>
@@ -46,11 +46,8 @@
             </ul>
           </nav>
         {%- endif -%}
-
-        <p>&copy;
-          {{ "now" | date: "%Y" }}</p>
       </section>
-      <section class="content">
+      <section id="content" class="content">
         {{ content }}
       </section>
     </main>
