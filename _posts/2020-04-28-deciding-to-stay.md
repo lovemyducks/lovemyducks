@@ -20,7 +20,7 @@ it's uncertain when they be flying again
 
 We decided to take the risk and stay\
 Chances are we'll be leaving on time\
-We feal no need to worry\
+We feel no need to worry\
 But even if we get stuck here\
 a bit longer than we planned\
 It's all still going to be okay
