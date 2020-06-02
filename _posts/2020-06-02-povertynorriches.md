@@ -8,7 +8,7 @@ date: 2020-06-02T16:32:21.337Z
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDfr-Y8ysNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->	1 Corinthians 2:2 “For I decided to know nothing among you except Jesus Christ and him crucified.” 
+*1 Corinthians 2:2 “For I decided to know nothing among you except Jesus Christ and him crucified.”*
 
 I know a little about a lot of things and a lot about a few things. The only thing I need to know is “Jesus Christ and him crucified.” Nothing else. There is no knowledge greater and more useful than this. It’s so thrilling when my understanding of this is deepened. I need the truth of Jesus Christ closer than my bones, flowing within my blood, yet constantly present on my tongue. The only words worth saying are those which proclaim His glory. The only things worth doing are those which display His love. I can’t point a finger at the time in which I came to these conclusions. However, upon realizing I had concluded these things, I came to another conclusion. That is, there is nothing else I would rather be doing. 
 
